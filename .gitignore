@@ -1,0 +1,15 @@
+# compiled output
+ember-quickstart/dist
+ember-quickstart/tmp
+
+# dependencies
+ember-quickstart/node_modules
+ember-quickstart/bower_components
+
+# misc
+ember-quickstart/.sass-cache
+ember-quickstart/connect.lock
+ember-quickstart/coverage/*
+ember-quickstart/libpeerconnection.log
+ember-quickstart/npm-debug.log
+ember-quickstart/testem.log
