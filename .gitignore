@@ -13,3 +13,19 @@ ember-quickstart/coverage/*
 ember-quickstart/libpeerconnection.log
 ember-quickstart/npm-debug.log
 ember-quickstart/testem.log
+
+# compiled output
+super-rentals/dist
+super-rentals/tmp
+
+# dependencies
+super-rentals/node_modules
+super-rentals/bower_components
+
+# misc
+super-rentals/.sass-cache
+super-rentals/connect.lock
+super-rentals/coverage/*
+super-rentals/libpeerconnection.log
+super-rentals/npm-debug.log
+super-rentals/testem.log
